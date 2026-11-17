@@ -1,0 +1,9 @@
+node_modules/
+*config*.cjs
+!robos/*.cjs
+.env
+*.env
+*.tsv
+*.json.bak
+fotos*/
+__pycache__/
